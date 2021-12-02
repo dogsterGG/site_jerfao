@@ -1,7 +1,3 @@
-
-@extends('layouts.navbottom')
-
 @extends('layouts.navtop')  
-  
-
+@extends('site.login')
 

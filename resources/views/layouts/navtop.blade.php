@@ -7,10 +7,10 @@
 <meta charset="utf-8">
 
 
-<link rel="stylesheet" href="https://images-na.ssl-images-amazon.com/images/I/41KBYOkTjIL._RC|71Mf8HV9EIL.css,31g1ibO5ySL.css,31CdpXAsWCL.css,31YZpDCYJPL.css,21MKjoYL8wL.css,41OiMQkB+EL.css,01yCq3WXEcL.css,11kO7yAgiQL.css,31OvHRW+XiL.css,01XHMOHpK1L.css,01ucgi+I44L.css,31IrUp1HMlL.css_.css?AUIClients/NavDesktopUberAsset#desktop.language-pt" />
-<link rel="stylesheet" href="https://images-na.ssl-images-amazon.com/images/I/11EIQ5IGqaL._RC|01ZTHTZObnL.css,41JZEtDv4tL.css,31Y8m1dzTdL.css,013z33uKh2L.css,017DsKjNQJL.css,0131vqwP5UL.css,41EWOOlBJ9L.css,11TIuySqr6L.css,01ElnPiDxWL.css,11bGSgD5pDL.css,01Dm5eKVxwL.css,01IdKcBuAdL.css,01y-XAlI+2L.css,21N4kUH7pxL.css,01oDR3IULNL.css,41CYNGpGlrL.css,01XPHJk60-L.css,114y0SIP+yL.css,21aPhFy+riL.css,11gneA3MtJL.css,21fecG8pUzL.css,01ulGzBW88L.css,01CFUgsA-YL.css,31C80IiXalL.css,11qour3ND0L.css,11gKCCKQV+L.css,11061HxnEvL.css,11oHt2HYxnL.css,013RDhw9hoL.css,11JQtnL-6eL.css,116v6uYvN6L.css,11jtXRmppwL.css,01QrWuRrZ-L.css,21zuRztKjtL.css,11QyqG8yiqL.css,11K24eOJg4L.css,11F2+OBzLyL.css,01890+Vwk8L.css,11Y05DTEL6L.css,01cbS3UK11L.css,21F85am0yFL.css,01giMEP+djL.css_.css?AUIClients/AmazonUI&M88Xd+lC#not-trident.307064-T1.307061-T1" />
-<link rel="stylesheet" type="text/css" href="https://m.media-amazon.com/images/I/41EVHI7+mxL.css" />
-<link rel="stylesheet" href="https://images-na.ssl-images-amazon.com/images/I/41wlI72RM+L.css?AUIClients/ACSWidgetAssets-contentGrid" />
+<link rel="stylesheet" type="text/css" href="{{asset('css/main2.css')}}" />
+<link rel="stylesheet" type="text/css" href="{{asset('css/main3.css')}}" />
+<link rel="stylesheet" type="text/css" href="{{asset('css/main4.css')}};" />
+<link rel="stylesheet" type="text/css" href="{{asset('css/main5.css')}}" />
 
 
 <style type="text/css">
@@ -62,8 +62,7 @@
 
 <header >
    
-<div id='navbar' cel_widget_id='Navigation-desktop-navbar'
-  role='navigation' class="nav-sprite-v1 celwidget nav-bluebeacon nav-a11y-t1 bold-focus-hover layout2 nav-flex layout3 layout3-alt nav-packard-glow hamburger nav-progressive-attribute">
+<div id='navbar' cel_widget_id='Navigation-desktop-navbar' role='navigation' class="nav-sprite-v1 celwidget nav-bluebeacon nav-a11y-t1 bold-focus-hover layout2 nav-flex layout3 layout3-alt nav-packard-glow hamburger nav-progressive-attribute" style="top: 0px; position: fixed; width: 100%;">
     <div id='nav-belt'>
         <div class='nav-left'>
             <div id="nav-logo">
@@ -220,8 +219,8 @@
     </div>
 
 
-  
 </header>
 
+  
 
  
